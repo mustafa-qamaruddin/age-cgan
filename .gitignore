@@ -19,3 +19,6 @@ visuals/
 visualize_mnist-*
 binary_faces/
 faces-data-new/
+saved_models_new
+visualize_dcgan*
+visualize*
